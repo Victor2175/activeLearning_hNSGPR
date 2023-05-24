@@ -1,2 +1,2 @@
 # activeLearning_hNSGPR
-Code of the active learning approach for the heteroscedastic Gaussian process
+Code to run 1D experiments with online heteroscedastic Gaussian process
